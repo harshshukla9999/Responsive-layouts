@@ -1,2 +1,2 @@
 # Responsive-layouts
-Solution to challenges of Conquering Responsive Layouts by Kevin Powell
+This repo contains solutions to challenges of Conquering Responsive Layouts by Kevin Powell
